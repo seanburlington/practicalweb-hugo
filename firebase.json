@@ -5,6 +5,14 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "redirects": [
+      {
+        "source": "/blog/categories/:tag*",  
+        "destination": "https://practicalweb.co.uk/tags/:tag",
+        "type" : 301
+      }
+      
     ]
   }
 }
