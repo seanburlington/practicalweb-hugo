@@ -29,9 +29,17 @@ twitter = "seanburlington"
    
    
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
+    [menu]
+      [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/home"
+        weight  = 1
+      [[menu.main]]
         identifier = "about"
         name = "About"
         url = "/about"
-  
+      [[menu.main]]
+        identifier = "privacy"
+        name = "Privacy"
+        url = "/privacy" 
