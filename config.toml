@@ -1,0 +1,37 @@
+languageCode = "en-gb"
+title = "Practicalweb Ltd"
+description = "An old Technical blog about web development"
+theme = "onepress"
+baseURL = "https://www.practicalweb.co.uk/"
+paginate = 10
+pygmentsUseClasses=true
+# Widget
+widgets = true
+copyright = "Copyright © 2021, Sean Burlington; all rights reserved."
+twitter = "seanburlington"
+
+[permalinks]
+  blog = "/blog/:year/:month/:day/:filename/"
+
+[params]
+  # dir name of your main content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "blog"
+
+	enableRSS = true
+
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Practicalweb Ltd"
+    subtitle = "Archived developer site"
+   
+   
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+  
