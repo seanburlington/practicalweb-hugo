@@ -2,7 +2,7 @@ languageCode = "en-gb"
 title = "Practicalweb Ltd"
 description = "An old Technical blog about web development"
 theme = "onepress"
-baseURL = "https://www.practicalweb.co.uk/"
+baseURL = "https://practicalwebcouk.web.app"
 paginate = 10
 pygmentsUseClasses=true
 # Widget
