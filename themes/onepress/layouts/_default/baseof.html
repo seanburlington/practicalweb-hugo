@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+	<head>
+    {{ partial "head.html" . }}
+    </head>
+<body>
+	  <header class="header">
+			{{ partial "brand.html" . }}
+		</header>
+    <nav class="main-nav">
+        
+          {{ range .Site.Menus.main }}
+          {{ $menuURL := .URL | absLangURL }}
+          <a  href="{{ .URL }}" >{{ .Name }}</a>
+          {{ end }}
+    </nav>
+    
+    
+   
+    <div id="site-wrapper-centered">
+        <main class="center">
+			<p>Technical information on this site may be out of date : no updates since 2015</p>
+
+        {{ block "main" . }} {{ end }}
+        </main>
+        {{ partial "footer.html" . }}
+    </div>
+    
+    {{ partial "js.html" . }}
+</body>
+</html>
