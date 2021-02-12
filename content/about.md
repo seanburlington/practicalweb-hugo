@@ -4,9 +4,11 @@ date: 2021-02-11T15:46:22Z
 draft: false
 ---
 
-This is a now-archived website by Sean Burlington from [2007](/blog/2007/11/12/raid-protecting-my-data/) through to [2015](/blog/2015/10/09/ubuntu-mysql-root-password-reset-init-file-not-found/) from when I first setup as a contractor
+This is a now-archived website by Sean Burlington from [2007](/blog/2007/11/12/raid-protecting-my-data/) when I setup a Ltd Company believing I could make a business developing websites through to [2015](/blog/2015/10/09/ubuntu-mysql-root-password-reset-init-file-not-found/) when I stopped blogging for a while after being too busy.
 
-The company I started became redundant when my last contract became a permanent role but the writing are still of some interest to me and there are some links out there which would be broken if I took it down.
+The Company was a success, I think I learned a lot from blogging.
+
+I've updated the site to comply with GDPR by removing analytics.
 
 However be warning that this content is all old.
 
