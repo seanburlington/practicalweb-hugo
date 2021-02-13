@@ -7,11 +7,11 @@
 {{ .Hugo.Generator }}
 <title>{{ .Title }}</title>
 <link rel="shortcut icon" href="{{ "/images/favicon.ico" | absURL }}" type="">
-<link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
-<link rel="stylesheet" href="{{ "css/syntax.css" | absURL }}">
-{{ if .Site.Params.customCSS }}
-  {{ partial "css.html" . }}
-{{ end }}
+{{ $style := resources.Get "css/style.css"  }}
+{{ $syntax := resources.Get "css/syntax.css" }}
+{{ $css := slice $style $syntax  | resources.Concat  "style.css" | minify | fingerprint}}
+<link rel="stylesheet" href="{{ $css.Permalink }}">
+
 
 
 
