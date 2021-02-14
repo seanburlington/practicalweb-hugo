@@ -144,3 +144,7 @@ footer {
   border-top: 1px solid grey;
   padding-top: 2em;
 }
+
+ul#hometaxonomy li a {
+  line-height: 2em;
+}

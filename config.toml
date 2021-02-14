@@ -19,7 +19,7 @@ twitter = "seanburlington"
   contentTypeName = "blog"
   readMore = "Read Article"
 	enableRSS = true
-
+  description = "A Blog about Drupal, Linux, php and web development in general."
 
 [languages]
   [languages.en]

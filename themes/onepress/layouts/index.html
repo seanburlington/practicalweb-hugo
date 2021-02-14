@@ -2,9 +2,8 @@
 
 <section id="content" class="body">{{ .Content }}</section>
 <h1>List of Tags used (with post count)</h1>
-<ul>
+<ul id="hometaxonomy">
   {{ range $.Site.Taxonomies.tags.ByCount }}
-
   <li>
     <a href="/tags/{{ .Name }}"> {{ .Name }} <small>({{ .Count }})</small></a>
   </li>
