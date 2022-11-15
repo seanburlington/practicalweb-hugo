@@ -12,6 +12,8 @@ There are lots of blogs about this already - but I didn't quite understand at fi
 
 Wireshark is a large and somewhat vulnerable program - best not to run it as root (especially as you may be looking a suspicious traffic)
 
+<!--more-->
+
 It uses dumpcap for the actual packet capture which is the only bit that needs elevated privileges.
 
 Since linux kernel 2.2 we don't even need root for this bit - we can set file permissions to allow non root user to capture packets. 

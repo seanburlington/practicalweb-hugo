@@ -11,4 +11,6 @@ PracticalWeb Ltd today joined the Drupal Association
 
 The membership fee helps support the drupal.org infrastructure and marketing costs.
 
+<!--more-->
+
 It's  also a small thank you for all the terrific work built up by the whole Drupal community.

@@ -10,6 +10,8 @@ tags:
 
 really interesting thread on the Drupal consultants mailing list
 
+<!--more-->
+
 especially of note:
 
 > http://lists.drupal.org/pipermail/consulting/2008-January/002324.html

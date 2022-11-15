@@ -13,6 +13,8 @@ This is absolutely against the accepted Drupal Dogma.
 
 What's great about Drupal is that you can achieve most things without hacking the core codebase; this means that every Drupal installation has the same base and any good developer who knows Drupal can take over the site.
 
+<!--more-->
+
 But ....
 
 There are things you cannot achieve by writing modules or theming.

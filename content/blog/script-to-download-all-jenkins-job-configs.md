@@ -9,6 +9,8 @@ tags:
 
 https://gist.github.com/seanburlington/5554803
 
+<!--more-->
+
 ```php
 #!/usr/bin/php
 <?php

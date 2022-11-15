@@ -14,6 +14,8 @@ I have a jmeter test plan which POSTs to a url, resulting in cookies being set a
 
 I was not seeing the cookies retained.
 
+<!--more-->
+
 The solution was to
 
 enable "Follow redirects" and disable "Auto redirect" on the HTTP request sampler.

@@ -13,6 +13,8 @@ I've been using puppet and vagrant for a while, due to client choices we're swit
 
 I love vagrant - being able to bring up a VM locally that matches the production servers to a good degree is just brilliant, and being able to repeat deploys is invaluable in testing process.
 
+<!--more-->
+
 The limitation with VMs is that each one takes a lot of resources, and is slow to build.
 
 Linux containers are _much_ lighter weight - being faster to create and using much less system resource to run, I'm hoping to be able to run more servers at once inside my laptop.

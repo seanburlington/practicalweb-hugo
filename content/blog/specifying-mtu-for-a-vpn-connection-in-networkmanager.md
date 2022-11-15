@@ -14,6 +14,8 @@ I need to use a VPN which was suffering packet fragmentation due to the overhead
 
 To determine the largest MTU size which didn't lead to fragmentation I just ran variations on
 
+<!--more-->
+
 ```bash 
 ping -M do -s 1327 server.example.com
 ```

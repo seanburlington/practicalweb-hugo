@@ -15,3 +15,6 @@ It's great that Amazon actually offer a version of their MP3 downloader for Linu
 Fortunately [clamz](http://code.google.com/p/clamz/) is available
 
 It's a great little command line utility with a very forgettable name.
+
+<!--more-->
+.

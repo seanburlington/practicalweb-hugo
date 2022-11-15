@@ -13,6 +13,8 @@ For most of 2008 I've been working on a large Drupal installation (around 10 dev
 
 This all adds up to a lot of updates, and schema changes.
 
+<!--more-->
+
 Drupal's hook_install, and hook_update_N functions are pretty good, but not perfect at bringing order to this chaos.
 
 These functions provide a basic way for developers to provide database installation and update functions, it's great that these can combine full code functionality (eg for data migration) synchronised with schema changes.

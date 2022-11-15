@@ -14,6 +14,8 @@ I've cancelled it before because of design issues that rendered it unworkable fo
 
 This time they have "upgraded" the site from an AJAX based layout which allowed me to choose between "print fidelity" and "HTML view".
 
+<!--more-->
+
 The new layout uses Flash to render the pages as they look in print in a scrollable window.
 
 I hate this because

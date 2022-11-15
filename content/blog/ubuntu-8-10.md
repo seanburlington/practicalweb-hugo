@@ -18,6 +18,8 @@ http://www.ubuntu.com/getubuntu/releasenotes/810
 
 There are a few bugs which have affected me
 
+<!--more-->
+
 - there is no bluetooth support in KDE
 - my wifi card only works in the US
 

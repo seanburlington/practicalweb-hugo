@@ -12,6 +12,8 @@ The default configuration of varnish logs every request twice, once for the clie
 
 edit the line in `/etc/init.d/varnishncsa` to something like
 
+<!--more-->
+
 `DAEMON_OPTS="-c -a -w $logfile -D -P $pidfile"`
 
 from the varnishncsa man page

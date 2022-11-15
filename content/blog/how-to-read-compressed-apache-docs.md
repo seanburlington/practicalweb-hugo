@@ -14,6 +14,8 @@ One of the great things about Debian/Ubuntu is the consistency with which system
 
 Assuming you have a web server installed this documentation is then available at http://localhost/doc/
 
+<!--more-->
+
 But to keep filesize down - many files are compressed and have to be decompressed before you can read them.
 
 The browser can actually do that compression on the fly - if it receives the right headers - what it needs to be told is that the content is compressed plain text.

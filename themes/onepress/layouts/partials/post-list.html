@@ -13,7 +13,13 @@
   {{ if .Params.featuredImage  }}
   <a href='{{ .Permalink }}'><span class="image" style="background-image: url({{.Params.featuredimage }})"></span></a>
   {{ end }}
-  <span class="intro">{{ .Description | markdownify }}</span>
+  <p class="intro">{{ .Summary }}</p>
+  {{ if .Truncated }}
+  <!-- This <div> includes a read more link, but only if the summary is truncated... -->
+  <div>
+    <a href="{{ .RelPermalink }}">Read More…</a>
+  </div>
+{{end}}
   
 </article>
 {{ end }}

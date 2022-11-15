@@ -11,6 +11,8 @@ In order to make releases repeatable, to be able to test updates and share work 
 
 This way one just has to update the code, then run update.php and you have the latest version of the site.
 
+<!--more-->
+
 It also makes it easy to pull in a copy of the live database and check that the update still works (because it's easy you actually find yourself doing it).
 
 Well that's the logic, but it wasn't entirely obvious to me how to do this.

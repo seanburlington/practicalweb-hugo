@@ -11,6 +11,8 @@ tags:
 
 Unit testing Drupal can be pretty challenging as it's hard to isolate parts of the code.
 
+<!--more-->
+
 It seems :
 
 - [Unit Testing Plan](http://drupal.org/node/237959?mode=2&sort=2)

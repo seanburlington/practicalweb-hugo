@@ -13,6 +13,8 @@ I've been using Drupal for a couple of years now, and know my way around it pret
 
 One of my biggest frustrations though is that it doesn't really have an API.
 
+<!--more-->
+
 Much of the functionality is only really available through the application, you can do things pretty easily by pointing and clicking, but try and automate part of this and you have to step through code, find form handlers, copy-paste parts of the functions and work out what parameters are required.
 
 The example I found most recently was creating a translated version of a page.

@@ -13,6 +13,8 @@ Fortunately the old version (7.4) was still available
 
 Steps
 
+<!--more-->
+
 - `restore /var/lib/postgresql/data`
 - `restore /etc/postgresql`
 - `mkdir /var/lib/postgresql/7.4`

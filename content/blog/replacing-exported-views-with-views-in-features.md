@@ -15,6 +15,8 @@ So we deleted the old module and added a new one with the required views.
 
 And the views were blank.
 
+<!--more-->
+
 In order to have this work smoothly on deployment I reinstated the old module and then
 
 Added an uninstall hook that deleted the modules like

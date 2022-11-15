@@ -16,6 +16,8 @@ If you try to access a subversion repository over http while using a 3G connecti
 
 This is because three.co.uk uses a [proxy](http://en.wikipedia.org/wiki/Proxy_server#Intercepting_proxy_server) to interecept web traffic on their network.
 
+<!--more-->
+
 This proxy does not understand all the [commands that are used by subversion](http://subversion.tigris.org/faq.html#proxy).
 
 It is perfectly possible to access subversion repositories through a proxy - just not through the one at three.co.uk.

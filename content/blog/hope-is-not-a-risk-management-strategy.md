@@ -12,3 +12,6 @@ tags:
 This is a great post by Cory Foy
 
 http://blog.cornetdesign.com/2009/06/hope-is-not-a-risk-management-strategy/
+
+<!--more-->
+.

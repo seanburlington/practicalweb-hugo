@@ -11,6 +11,8 @@ I have far too many books, both technical and diversionary, I read a great deal 
 
 The devices seem pretty good, certainly the text is very clear, capacity and battery life are reportedly great.
 
+<!--more-->
+
 I've tried out the open source project [caliber](http://calibre.kovidgoyal.net/) which can convert various formats into ebook format.
 
 But it seems these books only really display text well, I wasn't at all happy with the results of converting from A4 PDF documents (from O'Reilly books) the resulting pages were terribly laid out.

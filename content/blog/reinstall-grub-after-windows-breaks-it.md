@@ -15,6 +15,8 @@ Windows breaks grub, usually if I've reinstalled windows, this can lead to a unb
 
 Boot from a Ubuntu (or other distro) live disk or USB stick.
 
+<!--more-->
+
 Figure out which your disks and partitions are.
 
 ```bash

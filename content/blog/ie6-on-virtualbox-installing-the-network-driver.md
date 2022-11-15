@@ -17,6 +17,8 @@ Standards compliance is an important part of this - but testing cannot be avoide
 
 I work on Ubuntu, and use VirtualBox together with a licensed copy of Windows XP to test in a Windows environment, which also allows me to at least test the Windows version of Safari.
 
+<!--more-->
+
 Unfortunately Microsoft's decision to tie Internet Explorer closely with the operating system means that it isn't possible to install IE6 alongside IE7.
 
 [Multiple IEs](http://tredosoft.com/Multiple_IE) gets close but doesn't exactly replicate each version, and isn't compatible with the IE developer toolbar)

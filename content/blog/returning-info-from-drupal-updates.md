@@ -20,6 +20,8 @@ array('success' => $result !== FALSE, 'query' => check_plain($sql));
 
 So you might have an update hook that looks like.
 
+<!--more-->
+
 ```php
 <?php
 /**

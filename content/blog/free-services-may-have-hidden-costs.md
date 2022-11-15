@@ -11,6 +11,8 @@ There are many great services online that can help build fantastic websites at l
 
 In particular Google maps and you tube offer facilities that may not otherwise be available at no financial cost.
 
+<!--more-->
+
 There has always been a bit of doubt with these services, what if your site depends on them and then Google changes the way they work.
 
 Interesting to see adverts now appearing over images in You Tube

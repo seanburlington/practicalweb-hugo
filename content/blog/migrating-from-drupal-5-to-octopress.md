@@ -14,6 +14,8 @@ I've been running this blog (or some version of it) for almost 10 years now.
 
 I write to help clarify my own thoughts, or to note down technical details of a task that I have struggled to figure out. I often found myself coming back and have saved many hours of trying to figure out the same thing again a year or more later.
 
+<!--more-->
+
 For a long time this site was running Drupal 5, I set it up at a time when I was getting to know Drupal, starting out as an independent, and had plenty of time to spend on it. At the time this was a very useful exercise, installing lots of modules, and writing some code was good experience. But when Drupal 6 came out and I was busy [it wasn't worth upgrading](/blog/2008/07/18/time-to-upgrade-to-drupal-6}), then when drupal 7 was released and Drupal 5 no longer supported, upgrading was even more difficult as I would have had to upgrade in two steps. Besides Drupal didn't seem like such a good fit for my blog any more.
 
 I don't want to have to apply security updates on a site I'm not getting paid for: so a static html site is a great fit for me.

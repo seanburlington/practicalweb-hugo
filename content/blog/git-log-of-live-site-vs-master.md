@@ -11,4 +11,6 @@ One liner to grab a git log summarising what will change when you push teh next 
 
 For this to work you need to keep the deployed tag in VERSION.TXT
 
+<!--more-->
+
 `git log --oneline --graph $(GET http://www.example.com/VERSION.TXT)..$(git describe --abbrev=0 --tags origin/master)`

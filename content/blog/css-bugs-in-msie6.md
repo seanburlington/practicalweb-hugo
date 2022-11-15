@@ -13,6 +13,8 @@ The new design is pure CSS using CSS hacks to workaround bugs in various browser
 
 The old design had only ever been tested in MSIE and was a little quirky in other browsers, tables based layouts always seem to look more or less the same though. Mind you when there was a problem it would take me hours of trwling through nested tables to find and fix it.
 
+<!--more-->
+
 Having lived with this design for a while I have found it to be a little more fragile (in MSIE) in some ways: put an oversized image in the wrong place and the menu which should float to the right drops to the bottom of the page.
 
 The worst problem turned out to be a bug in the way MSIE calculates the size of italic text.

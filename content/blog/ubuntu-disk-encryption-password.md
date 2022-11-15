@@ -13,4 +13,6 @@ To reset the password on an encrypted disk in Ubuntu use the disks tool
 
 The cogs icon for the partition has a change password option
 
+<!--more-->
+
 ![screenshot](/images/posts/ubuntu-disk-envryption-password.png)

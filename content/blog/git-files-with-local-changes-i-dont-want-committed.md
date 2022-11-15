@@ -15,6 +15,8 @@ Seems the best approach is
 
 This tells git to skip this file when I push, if the remote file changes it will warn me
 
+<!--more-->
+
 To switch back
 
 `git update-index --no-skip-worktree $filename`

@@ -15,6 +15,8 @@ Databases can also accommodate comments - but these seem to be very rarely used.
 
 I'm of the opinion that database comments are very useful.
 
+<!--more-->
+
 It's often hard to determine the exact meaning of a column - maybe it would be ideal to rename the column but you don't want to risk breaking code.
 
 I've also worked on a few projects where tables retain redundant columns just in case a query somewhere selects this column. Then every now and again a developer (like me) gets tripped up and thinks this column is meaningful.

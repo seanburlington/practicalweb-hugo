@@ -10,4 +10,6 @@ tags:
 
 I came across this PDF slideshow from a talk on optimising PHP, it's well balanced and fairly thorough overview.
 
+<!--more-->
+
 http://ilia.ws/files/phpquebec_2009.pdf

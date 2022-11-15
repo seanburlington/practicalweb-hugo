@@ -18,6 +18,8 @@ More instructions at http://maven.apache.org/guides/mini/guide-ide-eclipse.html
 
 To run the debugger you need to do two things: you need to tell maven to run surefire, and run a remote java debug listening to that surefire
 
+<!--more-->
+
 Setup a new "Debug configuration" > "Remote Java Application"
 
 It should look like 

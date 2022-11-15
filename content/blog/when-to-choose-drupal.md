@@ -13,6 +13,8 @@ Drupal is a very flexible CMS which can be extended to provide the functionality
 
 I've worked on a few projects where I was brought in for my Drupal expertise, but in the end felt that Drupal wasn't a good solution in these particular circumstances. So I've been pondering what sorts of projects is Drupal best suited to.
 
+<!--more-->
+
 I'm not thinking about small brochureware websites that might be best managed using Wordpress, Joomla or the like as almost all my experience is of larger projects where the alternatives are frameworks such as Symfony, Rails, Struts etc – or pure custom code.
 
 I'm know it's possible to run a successful Drupal project that doesn't have all the good points and does have some bad points from the lists below – I've done it.

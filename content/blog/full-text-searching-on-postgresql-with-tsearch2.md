@@ -10,6 +10,8 @@ tags:
 
 I’ve just been experimenting with text searches: http://www.sai.msu.su/~megera/postgres/gist/tsearch/V2/docs/tsearch-V2-intro.html
 
+<!--more-->
+
 It’s worth noting that most of the commands in the above tutorial
 assume you are running as the database superuser, this is required to
 run the setup script but then you can grant permission for an ordinary

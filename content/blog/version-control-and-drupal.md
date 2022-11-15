@@ -15,6 +15,8 @@ Now I’m working on Drupal I need to keep track of my work - and merge in the c
 
 here’s the useful info I found ...
 
+<!--more-->
+
 Drupal advise
 
 Drupal.org » Forum » Support » Post installation : Repository setup

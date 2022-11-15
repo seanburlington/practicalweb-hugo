@@ -17,6 +17,8 @@ I wanted to trigger multiple jenkins servers from a github hook.
 
 I found [this pull request](https://github.com/github/github-services/pull/604M/) which led me to look at the API
 
+<!--more-->
+
 useful docs
 
  * http://developer.github.com/v3/repos/hooks

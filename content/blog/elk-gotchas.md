@@ -15,6 +15,8 @@ Syslog import takes current year - and I can't seem to set that (it's early Janu
 
 Even adding a year to the log data in sed didn't seem to help
 
+<!--more-->
+
 Selecting time periods via histogram I had inadvertently setup conflicting time periods or times outside of my data - if "filtering" is collapsed it's very easy for the dashboard to have a filter that leaves no data shown and as a beginner not realise it
 
 Histogram panel view - exposes an \interval\ setting that was wrong in my case (set to an interval of a year which wasn't useful for a few days worth of data)

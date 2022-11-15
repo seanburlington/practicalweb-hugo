@@ -18,6 +18,8 @@ http://api.drupal.org/api/file/developer/topics/oop.html
 
 It makes a good case for the design of Drupal, and goes a long way to explain why Drupal feels more OO than the code looks at first glance.
 
+<!--more-->
+
 There has been discussion on the mailing list
 
 Endless debate:  

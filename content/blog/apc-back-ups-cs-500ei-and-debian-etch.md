@@ -13,6 +13,8 @@ Just got a new UPS and it’s working nicely :-)
 Running on Debian Etch I had to upgrade the NUT package but this
 worked very simply by bringing in the one from Lenny (in testing)
 
+<!--more-->
+
 added to /etc/apt/sources.list
 
 `deb-src http://ftp.uk.debian.org/debian/ lenny main contrib non-free`

@@ -12,6 +12,8 @@ The branching strategy I've found most effective and flexible is to use one bran
 
 It's hard to visualise and I've tried drawing graphs but once I build in enough features to make the graph meaningful it is no longer easy to interpret.
 
+<!--more-->
+
 At the end of the day there is a degree of complexity in a branching process suited to large teams and large projects - but it does come down to a few basic principles.
 
 If you follow these principles you can maintain maximum release readiness, minimise conflicts, maximise flexibility, minimise bugs.

@@ -14,6 +14,8 @@ http://www.slideshare.net/eaton/drupal-deployment-presentation
 
 and noticed
 
+<!--more-->
+
 http://drupal.org/project/install_profile_api
 
 Which seems to have a collection of API functions needed at install/upgrade time that are missing from Drupal (and contrib modules)

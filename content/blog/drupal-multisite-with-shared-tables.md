@@ -15,6 +15,8 @@ http://api.drupal.org/api/file/sites/default/settings.php/5/source
 
 includes the following
 
+<!--more-->
+
 ```php
 <?php
 /*

@@ -14,6 +14,8 @@ I'm used to how svn export works, and have used this in a number of release scri
 
 Git doesn't quite have an equivalent
 
+<!--more-->
+
 There is
 
 `git archive`

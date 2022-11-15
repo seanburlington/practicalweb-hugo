@@ -16,6 +16,8 @@ In this case I need to debug incoming requests that are not initiated from with 
 In order to allow Eclipse to pick up xdebug responses triggered by requests from soapui I just needed to
 
 
+<!--more-->
+
  * start a debuging session within eclipse as normal
  * ensure that the query string ?XDEBUG_SESSION_START=ECLIPSE_DBGP is appended to all requests by editing the WSDL file so that the address looks like
 ```xml

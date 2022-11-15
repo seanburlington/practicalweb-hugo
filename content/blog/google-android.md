@@ -14,6 +14,8 @@ I have just got the new gphone, the G1 which is a collaborative venture: google 
 
 While a few things feel a little beta still; on the whole it all hangs together very well indeed.
 
+<!--more-->
+
 First of all it's worth saying the actual phone works very well, something all too easily overlooked.
 
 The rest of the gadgets work great - well enogh for me to write this on the bus.

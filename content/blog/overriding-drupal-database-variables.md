@@ -9,6 +9,8 @@ tags:
 
 Tucked away at the bottom of settings.php is the following comment.
 
+<!--more-->
+
 ```php
 /**
  * Variable overrides:

@@ -11,6 +11,8 @@ If you have a gmail account, you get a google plus account with it, many of end 
 
 This way anyone looking for you at the account you don't really use or looking you up via an alternate email gets redirected to your active account.
 
+<!--more-->
+
 First make sure you are only logged in to the google account you want to transfer your connections away from
 
 Go to https://www.google.com/settings/takeout/custom, this is usually used to download backups of your data.

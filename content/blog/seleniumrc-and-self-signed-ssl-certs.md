@@ -13,6 +13,8 @@ But the way this is achieved is by using a new profile each time and this profil
 
 This causes access to SSL via selenium to fail.
 
+<!--more-->
+
 You can get around this by creating a custom firefox profile
 
 Create a new profile with

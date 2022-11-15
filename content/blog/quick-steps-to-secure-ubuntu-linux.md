@@ -13,6 +13,8 @@ Recently I've been reviewing security and realised I've been relying too much on
 
 Steps so far
 
+<!--more-->
+
 Reinstalled Ubuntu with full disk encryption, apart from the need to back and restore data this was a painless process. I don't see a noticeable performance impact (though I have a fast system with SSD) the biggest drawback I can see is that if I mess around with a custom kernel and break the boot sequence - I don't know if I can boot from a live CD to fix it.
 
 Setup a restrictive local firewall

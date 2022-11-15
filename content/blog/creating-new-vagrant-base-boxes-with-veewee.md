@@ -19,6 +19,10 @@ While the base box isn't something I have needed to repeat much, it is beneficia
 
 Here's what I did
 
+
+<!--more-->
+
+
  * fork https://github.com/jedi4ever/veewee (in my case to a private repo)
  * check that out
  * install veewee according to its install notes

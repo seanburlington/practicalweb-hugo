@@ -13,4 +13,6 @@ Kdesvn and Kompare are two very nice tools providing rich GUI's for svn and file
 
 In order to show the difference between two revisions using Kompare, change the default external diff settings to:
 
+<!--more-->
+
 `kompare %1 %2`

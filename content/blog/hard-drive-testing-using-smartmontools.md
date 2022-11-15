@@ -15,6 +15,8 @@ Test the hard drive with
 
 This may take hours to run and will do so as a background process.
 
+<!--more-->
+
 Once complete run the following to see results
 
 `smartctl -l selftest /dev/hd?`

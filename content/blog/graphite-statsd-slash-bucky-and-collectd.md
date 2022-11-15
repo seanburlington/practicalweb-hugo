@@ -17,6 +17,8 @@ tags:
 
 It took me a while to realise but the data input to graphite is *incredibly* simple 
 
+<!--more-->
+
 The message input format is just 
 
 ```

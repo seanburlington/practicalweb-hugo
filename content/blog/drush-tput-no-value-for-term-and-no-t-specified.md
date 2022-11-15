@@ -14,6 +14,8 @@ The drush script which provides command line access to drupal functionality emit
 
 `tput: No value for $TERM and no -T specified`
 
+<!--more-->
+
 ```bash
 # If it is not exported determine and export the number of columns.
 if [ -z $COLUMNS ]; then

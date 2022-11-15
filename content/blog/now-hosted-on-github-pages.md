@@ -10,4 +10,6 @@ tags:
 
 Since I've moved to a static site I'm saving myself some hosting fees and moved to [Github Pages](https://help.github.com/categories/github-pages-basics/)
 
+<!--more-->
+
 It's free and fast, saves me from managing a server.

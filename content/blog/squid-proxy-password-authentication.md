@@ -20,6 +20,8 @@ acl my_passwords proxy_auth REQUIRED
 http_access allow my_password
 ```
 
+<!--more-->
+
 Then create passwords with the htpasswd program.
 
 `htpasswd -c /etc/squid3/squid_passwords.txt my_username`

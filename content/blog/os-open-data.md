@@ -14,6 +14,8 @@ For several years I worked as a web developer for [the Ramblers](http://www.ramb
 
 This is a fantastic and significant step in the direction of ensuring that some of the worlds best mapping assets do the most good for society as a whole.
 
+<!--more-->
+
 It will no doubt lead to an explosion of new applications and innovations.
 
 Not least I expect we'll see much better maps being used everywhere that couldn't previously negotiate an OS license - not only were licenses expensive they were notoriously unclear.

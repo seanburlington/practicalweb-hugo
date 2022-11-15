@@ -13,6 +13,8 @@ I have since found that repeated loading of databases during development used up
 
 So I had to figure out how to resize them.
 
+<!--more-->
+
 Thanks to
 
 http://blog.dhampir.no/content/resizing-an-ext3-filesystem-on-an-lvm

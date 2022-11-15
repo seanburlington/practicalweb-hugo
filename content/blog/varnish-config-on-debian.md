@@ -12,7 +12,9 @@ I've just spent too long being very confused as to why varnish wasn't working
 
 I'd forgotten that the Debian version doesn't read the default.vcl config file by default!
 
-You have to edit `/etc/default/varnish` and specify the config type you want.
+You ha
+<!--more-->
+ve to edit `/etc/default/varnish` and specify the config type you want.
 
 I was getting the error message
 

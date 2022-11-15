@@ -18,6 +18,8 @@ Clients have been getting fed up of high costs and vendor lock-in.
 
 In this context I've seen many clients specifying Drupal as a requirement when putting projects out to tender – in the hope of saving cost and avoiding lock in.
 
+<!--more-->
+
 It's really exciting to see an open source project taking on this role.
 
 However, having used Drupal on projects like this for the last couple of years I have to question whether it actually fits the bill.

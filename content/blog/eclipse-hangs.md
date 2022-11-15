@@ -12,6 +12,8 @@ This worked for me today - saving it here so I can find it again
 
 http://off-topic.biz/en/eclipse-hangs-at-startup-showing-only-the-splash-screen/
 
+<!--more-->
+
 `cd .metadata/.plugins`
 
 `mv org.eclipse.core.resources org.eclipse.core.resources.bak`

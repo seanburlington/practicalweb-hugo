@@ -11,6 +11,8 @@ tags:
 
 Well the new version of Eclipse (3.4 or Ganymede) is out and I've been trying it out. So far I've just installed it, adding in the components I want; and generally trying to see what's new.
 
+<!--more-->
+
 ## Installation
 
 I'm running Linux (Ubuntu 8.04)

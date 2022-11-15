@@ -16,6 +16,8 @@ Ubuntu 8.10 (Intrepid Ibex) now ships with Subversion 1.5
 
 You can't use a svn 1.4 client and a svn 1.5 client on the same working copy.
 
+<!--more-->
+
 While the subversion integration in Eclipse is great I still prefer to do some things on the command line and some with kdesvn.
 
 Then you need to upgrade your subclipse plugin to subclipse 1.4

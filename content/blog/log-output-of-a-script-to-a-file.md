@@ -13,6 +13,8 @@ Add this snippet to the top of scripts and the output of lines below will be tee
 
 Handy for those scripts you always want a log of
 
+<!--more-->
+
 ```bash
 #!/bin/bash
 

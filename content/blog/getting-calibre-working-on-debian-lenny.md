@@ -17,6 +17,8 @@ http://calibre.kovidgoyal.net/user_manual/faq.html#what-devices-does-app-support
 
 > The linux kernel can export two version of SYSFS, one of which is deprecated.
 
+<!--more-->
+
 Apparently Debian Lenny exports the deprecated version and you have to recompile the kernel to undo this.
 
 I wanted to make the minimum change possible to my system and continue using the packaging system : I followed roughly the following steps:

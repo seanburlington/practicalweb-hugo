@@ -17,6 +17,8 @@ http://bergie.iki.fi/blog/my_secret_agenda_for_php_content_management_systems/
 
 Links within that blog that I found especially interesting
 
+<!--more-->
+
 https://github.com/indeyets/appserver-in-php
 
 http://documentcloud.github.com/backbone/

@@ -16,6 +16,8 @@ tags:
 
 If you want to create custom rpms and install then with the usual automated dependency management you'll need your own yum repository. This is just the RPMS and metadata in the format of static xml files served by a webserver.
 
+<!--more-->
+
 ## First you need a GPG key to sign your packages.
 
 ```bash

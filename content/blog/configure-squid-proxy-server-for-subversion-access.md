@@ -12,6 +12,8 @@ To configure the Squid proxy server to work for subversion access you will need 
 
 Add the following to squid.conf
 
+<!--more-->
+
 `extension_methods MKACTIVITY CHECKOUT REPORT MERGE`
 
 Without these settings I could browse the repository - but I couldn't commit to it. Now commit works too :-)

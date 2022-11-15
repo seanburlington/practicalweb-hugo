@@ -19,6 +19,8 @@ Hudson http://hudson-ci.org/ is a continuous integration server - it runs and mo
 Selenium http://seleniumhq.org/ is a suite of tools specifically for testing web
 applications - it tests the full website by automating the running of one or more browsers (so you can test all that pointy clicky ajaxy stuff)
 
+<!--more-->
+
 You can generate selenium tests with a firefox plugin http://seleniumhq.org/projects/ide/ basic tests can be generated just by recording your actions on a website - and saved as an html test suite.
 
 The seleniumhq plugin for hudson http://wiki.hudson-ci.org/display/HUDSON/Seleniumhq+Plugin will start the seleniumrc server, run this test suite, monitor test/failure status and display the selenium report.

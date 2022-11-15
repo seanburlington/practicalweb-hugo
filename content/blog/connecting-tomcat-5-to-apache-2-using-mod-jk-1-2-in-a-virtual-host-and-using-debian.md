@@ -13,6 +13,8 @@ This is fairly well documented on the apache site - but you have to pull
 info together from a few pages and the importance of virtual servers is
 easy to miss.
 
+<!--more-->
+
 1. Make sure you have the development package for apache (you need apxs2 installed) taking care to get the right apache2-dev package
 
    I ran apt-get install apache2-prefork-dev

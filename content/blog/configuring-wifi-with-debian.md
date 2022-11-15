@@ -17,6 +17,8 @@ However getting wifi running was a bit trickier (largely because of FCC regulati
 
 This document got me most of the way
 
+<!--more-->
+
 http://wiki.debian.org/iwlwifi
 
 Additional lines in /etc/.network/interfaces

@@ -8,6 +8,8 @@ This is a now-archived website by Sean Burlington from [2007](/blog/2007/11/12/r
 
 The Company was a success, I think I learned a lot from blogging.
 
+<!--more-->
+
 I've updated the site to comply with GDPR by removing analytics.
 
 However be warning that this content is all old.

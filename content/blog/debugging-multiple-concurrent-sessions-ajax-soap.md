@@ -15,6 +15,8 @@ For example if you have an AJAX progress bar for a large file upload one session
 
 How to track both parts of this cleanly has had me scratching my head a bit - but the solution is fiendishly simple.
 
+<!--more-->
+
 It turns out that there is a buried configuration setting in Eclipse (my IDE of choice) which allows you to debug multiple sessions.
 
 in Eclipse go to:

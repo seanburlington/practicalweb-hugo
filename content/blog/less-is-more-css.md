@@ -16,6 +16,8 @@ But now there is
 
 http://lesscss.org/
 
+<!--more-->
+
 Which looks like it fills in some of the missing gaps - it extends the CSS syntax and to it's own format - and then generates standard CSS from this.
 
 I'm definitely planning on using this for my next project.

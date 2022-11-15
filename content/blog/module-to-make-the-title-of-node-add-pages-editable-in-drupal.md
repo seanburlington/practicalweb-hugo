@@ -11,6 +11,8 @@ This module makes it possible to customise the title of the pages which add node
 
 By default these pages have the title "Create a $node_type"
 
+<!--more-->
+
 This module was paid for by http://www.consultanddesign.com/ who have asked for it to be contributed back to the community. I'm in the process of applying for a CVS account to do that properly, in the meantime here's the code.
 
 ```php

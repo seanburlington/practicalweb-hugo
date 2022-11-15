@@ -15,6 +15,8 @@ I've tried it in a dev env, I'm not yet sure if we'll use this in production.
 
 Varnish config
 
+<!--more-->
+
 ```C
 probe checkslash {
     .url = "/robots.txt";

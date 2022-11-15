@@ -12,6 +12,8 @@ The Drupal project I've been working on for the last year involved some fairly h
 
 To simplify the code I made extensive use of Exceptions, I didn't create that many different Exception classes - but I made sure that any errors which affect the flow of the logic were handled by Exceptions.
 
+<!--more-->
+
 This succeeded in making the code much more legible.
 
 And now several months later I'm updating documentation - and it's just great to be able to spot all the error handling code so easily.

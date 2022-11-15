@@ -17,6 +17,8 @@ An I'm especially excited by the prospects hinted at here
 >
 > For those who haven't read it, http://buytaert.net/8-steps-for-drupal-8 is worth a read. In it, step 6 is "Backport small changes to stable releases". Drupal 7 is the first release we've been able to entertain the idea, since we have a testing framework with 25K tests and a version-specific dependency system. What the boundaries are of such changes isn't quite defined yet, because Dries and I have kept pretty busy with, you know, getting Drupal 7 out the door. :P~
 
+<!--more-->
+
 For a long time I've felt that Drupal could get a great deal more engagement from contractors, freelances and other somewhat mercenary entities (myself included) if contributions could have an impact on a smaller timescale.
 
 By allowing changes to core within major releases it potentially becomes possible to contribute patches that get released within months rather than years.

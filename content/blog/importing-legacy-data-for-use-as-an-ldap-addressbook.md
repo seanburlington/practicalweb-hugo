@@ -7,10 +7,11 @@ tags:
   - ldap
 ---
 
-This
-is something I played around with ages ago and didn’t make notes on -
+This is something I played around with ages ago and didn’t make notes on -
 now I’m doing a little more work pulling together what I learned then
 along with some new stuff.
+
+<!--more-->
 
 In /etc/ldap/slapd.conf
 

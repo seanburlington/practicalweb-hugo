@@ -12,6 +12,8 @@ One of the problems I have encountered while developing for Drupal on a laptop i
 
 I've recently come across two solutions.
 
+<!--more-->
+
 ## Devel Module
 
 This helpful module includes a mail wrapper function which directs all mail to the Drupal logs, perfect for testing volume mail sending or just for getting a password reset link.

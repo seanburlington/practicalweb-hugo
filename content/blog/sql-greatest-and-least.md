@@ -13,6 +13,8 @@ Most of the time I can get what I want out of SQL using the standard aggregate f
 
 I achieved this using the GREATEST() function, it's not part of the SQL standard but is commonly available.
 
+<!--more-->
+
 `GREATEST(<em>value</em> [<span class="OPTIONAL">, ...</span>])`
 
 `LEAST(<em>value</em> [<span class="OPTIONAL">, ...</span>])`

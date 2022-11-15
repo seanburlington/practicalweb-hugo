@@ -14,6 +14,8 @@ So today I had some time and used it to read up on the pros and cons, as well as
 
 It seems to me that git is clearly the better system; but that svn has the advantage of maturity.
 
+<!--more-->
+
 Git in itself seems to have grown up, it's just that the supporting infrastructure and developer experience is still limited.
 
 But - where I think git has a huge advantage is they way that you an import projects from cvs or svn - keep the history and crucially to commit your changes back.

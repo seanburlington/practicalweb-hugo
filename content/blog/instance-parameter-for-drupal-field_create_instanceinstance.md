@@ -13,6 +13,8 @@ The code in chapter 7 of pro Drupal development has a bug.
 
 The $instance array that you need to pass to [field_create_instance()](http://api.drupal.org/api/drupal/modules--field--field.crud.inc/function/field_create_instance/7) needs to be as below.
 
+<!--more-->
+
 Note that the display array has the keyword, 'default' for the default display - ie a node on it's own page 'teaser' looks like the right value for teaser. Other view modes are possible too.
 
 The label field in the display part of the array is just the positioning of the array - 'above', 'below', 'inline' and 'hidden' seem the likely set of allowed values.

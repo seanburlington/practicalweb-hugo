@@ -15,6 +15,8 @@ Usually copying a site across is quick but this time I re-installed the OS too, 
 
 Eventually I noticed that while the site appeared to be working, every page was being served with a 404 header.
 
+<!--more-->
+
 What happened is that I hadn't enabled mod_rewrite
 
 The .htaccess had been configured to serve drupal 404 pages, but in this case Drupal (once started as a 404 handler) correctly processed the URL - but presumably without the form data.

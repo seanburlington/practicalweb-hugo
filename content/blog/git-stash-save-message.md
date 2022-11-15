@@ -13,6 +13,8 @@ But I work on many projects, am often playing around with something, get pulled 
 
 By default `git stash` saves the work but the `git list` just gives some id for each stash like
 
+<!--more-->
+
 ```
 stash@{0}: WIP on master: 2166e26 foo
 stash@{1}: WIP on master: 2166e26 foo

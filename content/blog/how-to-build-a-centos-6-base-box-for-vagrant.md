@@ -18,6 +18,8 @@ I originally went down a manual route as I wanted to understand the process, and
 
 You're probably better off using [veewee](https://github.com/jedi4ever/veewee) or [packer](http://www.packer.io/)
 
+<!--more-->
+
 ---
 
 I've been playing with [vagrant](http://vagrantup.com/) a bit lately but of course the first thing I wanted was something they say is for advanced users only, creating my own base box.

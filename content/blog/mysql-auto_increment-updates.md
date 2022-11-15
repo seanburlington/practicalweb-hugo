@@ -12,6 +12,8 @@ I just found out the painful way that if you manually update a column which is n
 
 but MySQL doesn't update the auto_increment value for the table - so subsequent inserts can fail.
 
+<!--more-->
+
 The solution seems to be to delete and re-insert the row.
 
 http://bugs.mysql.com/bug.php?id=12434

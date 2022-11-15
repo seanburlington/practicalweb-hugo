@@ -17,6 +17,8 @@ Changing memcache port seems simple enough - just edit
 
 BUT on a new centOS install memcache failed to start on any non-standard port.
 
+<!--more-->
+
 To see any error message I had to edit the file `/etc/init.d/memcached`
 
 and change the start line to

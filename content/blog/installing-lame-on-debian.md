@@ -15,6 +15,8 @@ tags:
 
 Debian has a very strict policy on free and legal software. This helps keep everyone honest, but sometimes a pragmatic approach is called for. MP3 is a file format that is patent encumbered - but also in universal use.
 
+<!--more-->
+
 I could use the supplied Ogg Vorbis tools but then my music wouldn't work everywhere I want it to.
 
 So I want to install Lame which is only available in source.

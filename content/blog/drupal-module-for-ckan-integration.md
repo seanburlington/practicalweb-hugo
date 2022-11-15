@@ -12,6 +12,8 @@ Here's a basic Drupal Module that pulls CKAN data into Drupal.
 
 It provides a simple search interface - when the user views a CKAN package for the first time a corresponding node is created.
 
+<!--more-->
+
 When this node is then viewed Drupal loads the package details - I'm only displaying notes and title here as I've run out of time tonight - but the rest of the data is there.
 
 You can then have user comments, voting, etc on these pages.

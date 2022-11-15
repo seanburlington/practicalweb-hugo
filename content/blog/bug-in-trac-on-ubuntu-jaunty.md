@@ -16,6 +16,8 @@ The bug report is at https://bugs.launchpad.net/ubuntu/+source/trac/+bug/369792
 
 And the solution is
 
+<!--more-->
+
 go to http://packages.ubuntu.com/karmic/trac
 and scroll all the way down. There you'll find a download link for the
 karmic package which you can download and install via

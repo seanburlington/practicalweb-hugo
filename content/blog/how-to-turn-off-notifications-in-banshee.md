@@ -12,6 +12,8 @@ The music player banshee which is part of the default Ubuntu setup pops up a mes
 
 To turn this off
 
+<!--more-->
+
 - Open Banshee
 - Go to Edit, preferences, extensions
 - Enable Notification Area Icon

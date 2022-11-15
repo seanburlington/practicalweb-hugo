@@ -12,7 +12,9 @@ Some thoughts - I've used puppet for a while and ansible more recently.
 
 Ansible is easier to get started with
 
-Puppet sequencing can be hard - and occasionally you get bugs appearing in odd places where there was a dependency that you hadn't noticed - but things happened to work OK untill some change
+Puppet sequencing can be hard - and occasionally you get bugs appearing in odd places where there was a dependency that you hadn't noticed - but things happened to work OK until some change
+
+<!--more-->
 
 Puppet is faster - especially for a long set of config with a single change to apply.
 

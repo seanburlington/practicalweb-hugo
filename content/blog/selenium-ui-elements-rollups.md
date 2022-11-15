@@ -13,6 +13,8 @@ I wasn't 100% clear from the docs how to implement rollup rules in selenium ui-e
 
 Add this to the user-extensions.js file
 
+<!--more-->
+
 ```javascript
 var manager = new RollupManager();
 

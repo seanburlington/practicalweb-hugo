@@ -15,6 +15,8 @@ I had fun this weekend at the [PHP London](http://www.phplondon.org/) Test Fest,
 
 The tests our team took on were based around the [SPL](http://www.php.net/%7Ehelly/php/ext/spl/main.html)[iterators](http://uk.php.net/manual/en/spl.iterators.php) I hadn't used this part of PHP before and it was a great way to learn about it, especially as many of the functions we tested aren't documented yet.
 
+<!--more-->
+
 What we did was :
 
 1. Take a copy of [PHP source code](http://www.php.net/anoncvs.php)

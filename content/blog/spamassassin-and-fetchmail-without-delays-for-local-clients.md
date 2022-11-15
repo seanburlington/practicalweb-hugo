@@ -12,6 +12,8 @@ Most of my mail is delivered by smtp directly to me, but my
 secondary max records cause some mail to be delivered to a POP3
 mailbox- this is then retrieved using spamassasin.
 
+<!--more-->
+
 This works very well generally - I get my mail very quickly and implement spam/virus filtering.<br />
 The only problem is that many spammers deliberately target secondary
 mail servers as being less likely to have spam filtering, so I still

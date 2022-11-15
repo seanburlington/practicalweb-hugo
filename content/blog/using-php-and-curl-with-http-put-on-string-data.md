@@ -14,6 +14,8 @@ There are various other posts on this - but mostly assuming you will put a file.
 
 In my case I want to put the contents of a string so I needed to create a temporary filehandle.
 
+<!--more-->
+
 ```php
 <?php
 

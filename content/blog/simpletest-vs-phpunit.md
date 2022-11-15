@@ -17,6 +17,8 @@ Simpletest has a built in webTestCase which allows you to perform some integrati
 
 An example web test for simpletest is:
 
+<!--more-->
+
 ```php
 <?php
     function testDefaultValue() {

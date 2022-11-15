@@ -13,6 +13,8 @@ When the web first started everything was in Times New Roman, black on grey with
 
 Things have moved on a long way since then, but there are still very few fonts. I've worked on many sites that have tried to overcome this by various routes.
 
+<!--more-->
+
 - Creating an image of headline text in the desired font
 
   This can look good but offers poor accessibility and it's hard to update

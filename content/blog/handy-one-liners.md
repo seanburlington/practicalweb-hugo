@@ -14,6 +14,8 @@ While creating websites I often find the need to manipulate files in all sorts o
 
 Things that are hard to do by hand, but you don't want to write a whole program for - you'll just use it once and throw it away.
 
+<!--more-->
+
 
 Linux/Unix excels at this sort of task - there is a rich selection of tools and plenty of ready made recipes.
 

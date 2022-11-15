@@ -15,6 +15,8 @@ If a client has a problem viewing the page there's little point saying "but it w
 
 I have found that the differences between different versions of firefox to be small enough that testing in one version is sufficient.
 
+<!--more-->
+
 Internet Explorer is so different between versions that each target version must be tested separately.
 
 There is a [package for multiple IEs](http://tredosoft.com/Multiple_IE).

@@ -11,7 +11,9 @@ tags:
 ---
 It wasn't immediately obvious to me
 
-What I needed to do to get blutooth audio working was to install the blueman package
+What I needed to do to get bluetooth audio working was to install the blueman package
+
+<!--more-->
 
 After that configuration via GUI was pretty straightforward
 

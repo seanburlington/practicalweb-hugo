@@ -17,4 +17,6 @@ When I stopped that was a warning sign
 
 This site is older than most - and lot's of the links are broken now because most sites seems to change over time.
 
+<!--more-->
+
 Static sites FTW

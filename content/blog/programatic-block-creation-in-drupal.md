@@ -11,6 +11,8 @@ To remove static blocks and replace with as custom block.
 
 Implement hook_block specifying the default visibility and so on
 
+<!--more-->
+
 ```php
 <?php
 $blocks['random'] = array(

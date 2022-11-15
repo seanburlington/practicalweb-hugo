@@ -14,6 +14,8 @@ As ever the manufactures provide little support for us Linux users - but setup w
 
 I plugged it in and it was detected OK with full driver support.
 
+<!--more-->
+
 Once installed it appears as any other modem would.
 
 The only snag was that the Windows installer sets up it's own modem setup and doesn't give many clues what the configuration is!

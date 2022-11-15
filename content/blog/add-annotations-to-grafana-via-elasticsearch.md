@@ -16,6 +16,8 @@ Mostly I figure we'll add a line to deploy scripts to track versions - but I'd l
 
 [this code as a gist](https://gist.github.com/seanburlington/29af780a56e09e3055ed#file-grafana-elasticsearch-annotations-html)
 
+<!--more-->
+
 ```html
 <!DOCTYPE html>
 <html>

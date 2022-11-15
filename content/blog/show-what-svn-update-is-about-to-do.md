@@ -13,6 +13,8 @@ When you want to see what svn update is about to do you may try
 
 But this doesn't work.
 
+<!--more-->
+
 You can get the results you need by running
 
 `svn status -u `

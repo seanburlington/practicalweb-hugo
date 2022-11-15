@@ -15,6 +15,8 @@ The basic search is:
 
 Returns all packages that match
 
+<!--more-->
+
 To search only for the installed versions
 
 `aptitude search ~iapache`

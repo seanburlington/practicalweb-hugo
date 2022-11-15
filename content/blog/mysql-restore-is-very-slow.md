@@ -16,6 +16,8 @@ The bug is fixed in http://dev.mysql.com/doc/refman/5.0/en/releasenotes-cs-5-0-6
 
 But Ubuntu hasn't updated yet....
 
+<!--more-->
+
 Fortunately this bug is specific to the command line client.
 
 Workaround: use the MySQL Administrator GUI instead.

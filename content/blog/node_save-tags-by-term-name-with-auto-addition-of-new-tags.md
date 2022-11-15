@@ -14,6 +14,8 @@ Drupal lets you add a taxonomy term to a node and if you use the GUI you can hav
 
 I wanted to access the same functionality on node I am generating from external data.
 
+<!--more-->
+
 The key is to create the term array with `tid = 'autocreate'` - this and the vocabulary ID are enough to trigger the taxonomy module to lookup the tid for you - and add a new term is required.
 
 ```php

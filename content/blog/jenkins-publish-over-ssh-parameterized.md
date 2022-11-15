@@ -9,6 +9,8 @@ tags:
 
 To have a jenkins job which acts on a remote server via ssh - and has a parameter to choose which server(s) to use.
 
+<!--more-->
+
 1. check _This build is parameterized_
 2. Make the parameter name something like TARGET_SERVER
 3. add build step _Send files or execute commands over SSH_

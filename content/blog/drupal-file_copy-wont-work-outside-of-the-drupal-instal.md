@@ -14,6 +14,8 @@ This "feature" has bitten me before. It's one of those annoying Drupal things wh
 
 What's happening is that `file_copy()` calls `file_create_path()`
 
+<!--more-->
+
 <?php
 function file_copy(&$source, $dest = 0, $replace = FILE_EXISTS_RENAME) {
   $dest = file_create_path($dest);

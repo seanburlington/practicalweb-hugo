@@ -16,6 +16,8 @@ In order to log from Jmeter to statsd you need to add [a statsd library](https:/
 
 Then have a beanshell on the thread group setup a statsd object for use by the threads
 
+<!--more-->
+
 store this in the props variable - JMeterProperties (class java.util.Properties)
 
 Note that [the docs](https://docs.oracle.com/javase/7/docs/api/java/util/Properties.html) say 

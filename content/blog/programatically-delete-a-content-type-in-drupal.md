@@ -18,3 +18,6 @@ while ($row = db_fetch_object($result)) {
 node_type_delete('mytype');
 ?>
 ```
+
+<!--more-->
+[2022: This is very old] 

@@ -18,6 +18,8 @@ Mar 26 2005
 
 (The apache2+SSL part was taken from the article Debian, Apache2 and SSL by Ian Miller)
 
+<!--more-->
+
 Debian Sarge comes with an apache2 package. I thought I’d give this
 a go to get it working with a self signed SSL certificate. However, I
 had little idea of what I was doing. Eventually I worked it out - and

@@ -13,6 +13,8 @@ Having been running spamassassin at home with great success for some time, I hav
 
 I found that spam was just not being detected nearly as well as at home, and the machine was struggling with the load (load average around 3).
 
+<!--more-->
+
 1. I noticed that the blacklists were not being used,  
    after a bit of digging (wiki.apache.org/spamassassin/DnsBlocklists I discovered I needed to install the package libnet-dns-perl
    This package is only recommended by the spamassasin package, not required by it.

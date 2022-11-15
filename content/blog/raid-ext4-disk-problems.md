@@ -15,6 +15,8 @@ I have a new PC which is very fast apart from problems with disc access seeming 
 
 The following related links led me to try a solution
 
+<!--more-->
+
 http://forums.gentoo.org/viewtopic-t-843292.html
 
 http://marc.info/?l=linux-raid&m=128506852210452&w=2

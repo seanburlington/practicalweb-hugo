@@ -12,6 +12,8 @@ Drupal has a couple of modules which allow you to produce your own tinyurl.com t
 
 This has been extended for use by the US government at http://go.usa.com/ and the code re-released to the community.
 
+<!--more-->
+
 This mainly adds statistics gathering and reporting
 
 Unfortunately the module maintainer has chosen not to integrate these changes back into the module at drupal.org - issue here : http://drupal.org/node/520588

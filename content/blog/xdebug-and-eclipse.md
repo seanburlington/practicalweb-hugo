@@ -16,6 +16,8 @@ You can get a long way using print_r but ultimately this always requires that yo
 
 It's generally pretty easy to set up
 
+<!--more-->
+
 - install the php5-xdebug package
 - check that the Eclipse PHP preferences have xdebug as an option
 - if you're debugging locally the default settings should be OK

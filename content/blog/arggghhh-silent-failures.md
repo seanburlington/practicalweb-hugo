@@ -14,6 +14,8 @@ I’d set up my views, exported them added them to a module in a `hook_views_def
 
 and nothing happened.
 
+<!--more-->
+
 First I though this was caching - but much cache clearing and debugging later…
 
 I realised that if the view requires categories that don’t exist -

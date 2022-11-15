@@ -13,6 +13,8 @@ For me the biggest frustration is the limited search
 
 But it turns out the data is stored using sqlite - and so you can search using sql directly on the sqlite db files.
 
+<!--more-->
+
 https://gist.github.com/seanburlington/740d136e58d8b87d057f
 
 ```bash

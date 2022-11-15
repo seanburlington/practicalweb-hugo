@@ -13,6 +13,8 @@ Sometimes you want to compare your installed version with the original package.
 
 Run the following commands
 
+<!--more-->
+
 ```bash
 mkdir ~/temp
 dpkg -x somepackage.deb ~/temp/

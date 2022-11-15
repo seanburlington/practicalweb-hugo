@@ -17,6 +17,8 @@ However all this testing can be hard to keep on top of and sometimes I just have
 
 I'm aiming to automate as much testing as possible, this is a little more work up front - but makes re-running tests trivial and so more likely to happen.
 
+<!--more-->
+
 I use VirtualBox to run multiple environments, and am happy to find that the newer releases (2.1 and up) support improved networking.
 
 So I have installed <a href="http://seleniumhq.org/projects/remote-control/">Selenium RC</a> on a virtual machine, and by running this simple script I can test on Internet Explorer - from my Linux development machine.

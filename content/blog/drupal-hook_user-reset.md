@@ -11,6 +11,8 @@ I need a user hook that sends password reset events.
 
 I created a very simple module to do this - but it doesn't work.
 
+<!--more-->
+
 I think this is because user_pass_reset() calls drupal_goto() after a login link is used - and that this bypasses my extra form handler.
 
 and according to

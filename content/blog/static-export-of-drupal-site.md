@@ -15,6 +15,8 @@ I've exported this site from Drupal using wget to create a static html version l
 
 Then rsync to the server and use mod rewrite to retain the paged links like frontpage?page=4
 
+<!--more-->
+
 I've had some trouble getting mod rewrite to work, it seems that getting apache to serve content from filenames containing question marks is tricky.
 
 in apache 2.4 this worked

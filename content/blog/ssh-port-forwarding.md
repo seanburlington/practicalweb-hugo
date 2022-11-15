@@ -11,6 +11,8 @@ tags:
 
 Every now and again I find I have ssh access to one server - which has access to somewhere I need to get to - but I want direct access (eg to forward an X session)
 
+<!--more-->
+
 ```bash
 
 ssh -L 2222:otherserver:22 server

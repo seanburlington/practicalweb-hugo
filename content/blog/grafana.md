@@ -17,6 +17,8 @@ What motivated me was a desire to be better able to interpret load test data and
 
 I love graphs, for me the visualisation they provide allows me to recognise patterns and figure out cause/effects massively faster than any other way.
 
+<!--more-->
+
 In the past I've mainly relied on Munin which is very easy to setup, and I've even customised graphs. My most successful case was when two servers in a pool of four kept falling down, by graphing apache hits per second and severer load for all for servers on the same page - it provided convincing proof that the two servers which fell down did so under no extra load and at the exact same moment. It later turned out these two were VMs on the same host OS which was having previously unnoticed problems.
 
 This visualisation transformed a conversation from one of what could or couldn't be wrong to acceptance and how to fix it.

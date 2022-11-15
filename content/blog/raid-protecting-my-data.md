@@ -13,6 +13,8 @@ had too many hard disk failures over the years and decided to use RAID
 to ensure that all my photos, email and work are always copied to two
 disks so that if any one of them fails I don’t lose anything.
 
+<!--more-->
+
 Recently I was upgrading my system and accidentally unplugged one of
 these disks - I didn’t even notice until I got an automatic email
 warning me that one of the disks wasn’t working!

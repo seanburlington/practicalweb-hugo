@@ -11,6 +11,8 @@ tags:
 
 If you've ever tried to debug your update hooks via drush you may (like me) have been puzzled as to why your breakpoints don't seem to work.
 
+<!--more-->
+
 It seems that proc_open() is used to avoid memory issues http://drupal.org/node/687724 (effectively resetting all the Drupal static variables??) and this separate process isn't available to the debugger.
 
 After stepping though the drush update process I found where this happens and have a bypass that is basically functional (drush reporting seems broken - but I can step through my code).

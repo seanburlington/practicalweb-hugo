@@ -10,6 +10,8 @@ tags:
 
 Installing Ubuntu on a new netbook proved remarkably easy once I got past a couple of hurdles
 
+<!--more-->
+
 - BIOS settings - in order to install a new OS I needed to configure the BIOS to boot from a USB key. At first it seemed like the netbook didn't offer this option and I found several posts online from people having similar problems - but posts from others who had succeeded encouraged me and in the end I just had to guess the right points in the boot sequence to press the escape key and see a BIOS menu
 - Bootable USB key, I followed the instructions at http://www.ubuntu.com/desktop/get-ubuntu/download but no matter what the USB key wouldn't boot.
 

@@ -18,6 +18,8 @@ Data exchange with another organisation is always tricky - and in this case we h
 
 The code I've been working on has been through a couple of versions, and now I have in mind a third
 
+<!--more-->
+
 1. process data from file a line at a time, comparing each record with the database individually
 
 2. load all data from file into a temporary table, apply all rules as SQL updates to the whole table - joined to other tables where comparisons are needed.

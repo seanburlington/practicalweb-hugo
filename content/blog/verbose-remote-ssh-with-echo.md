@@ -18,6 +18,8 @@ Running "bash -ex" causes each line to be output as it progresses and halt on an
 
 within the remote command "set -x" cause bash to echo all commands
 
+<!--more-->
+
 ```bash
 #!/bin/bash -ex
 ssh -T user@server << EOF

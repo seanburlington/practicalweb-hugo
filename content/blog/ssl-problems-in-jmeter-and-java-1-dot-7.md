@@ -20,7 +20,9 @@ It turns out that Java 7 introduced a feature (SNI support) and can trigger this
 As workaround you can disable this feature by setting the property  jsse.enableSNIExtension to false.
 
 and run jmeter like
-    
+  
+<!--more-->
+  
     
 ```bash
 jmeter -Djsse.enableSNIExtension=false -t mytest.jmx

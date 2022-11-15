@@ -16,6 +16,8 @@ Going to the dictionary doesn't help much:
 
 In my opinion "node" is just the wrong word.
 
+<!--more-->
+
 When you read node think content.
 
 Content (in the context of a website) means something that is displayed to users.

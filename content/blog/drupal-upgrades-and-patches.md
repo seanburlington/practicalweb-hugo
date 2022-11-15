@@ -15,6 +15,8 @@ Reading <a href="http://www.drupaler.co.uk/users/gregharvey">Greg</a>'s <a href=
 
 The standard Drupal method is to delete existing files and unpack a tarball to replace the old version - I find this method unappealing because: I keep my code in subversion so don't want to delete the .svn subdirectories, and sometimes I have patches applied that I don't want to loose.
 
+<!--more-->
+
 Drush provides a significant step up for managing updates, it's really easy to use and replaces just files not the directory structure so it plays well with subversion.
 
 So I had a look around for methods to upgrade Drupal via patches (I really don't understand why this isn't the default) and I found

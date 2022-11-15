@@ -19,6 +19,8 @@ But with a CMS such as Drupal some changes are inevitably required in the databa
 
 Managing these changes without affecting the site content can be tricky.
 
+<!--more-->
+
 This isn't just a Drupal problem - I've encountered in on most web applications and CMS's I have worked on.
 
 My current solution is based on very careful documentation of the database changes - but I'm always on the lookout for more automated solutions.

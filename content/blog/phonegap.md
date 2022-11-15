@@ -14,6 +14,8 @@ Phonegap is an open source compatibility layer for mobile development.
 
 It provides access to common mobile functionality such as geolocation, sound, contacts etc via a JavaScript API
 
+<!--more-->
+
 The idea is to make phone development more like web development, and to make deploying cross platform pas much easier.
 
 This project looks to be in fairly early stages, but already very powerful.

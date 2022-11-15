@@ -12,6 +12,8 @@ You'll need to have git and git-svn installed.
 
 The code samples are run in bash on Linux.
 
+<!--more-->
+
 ## Initial Import
 
 The import process can be slow if you have a lot of history to import as git-svn has to pull in every single revision individally. I've found it worthwhile creating a tiny svn repository to practice with as imports are quick and mistakes cheap.

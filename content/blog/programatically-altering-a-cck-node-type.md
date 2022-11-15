@@ -12,6 +12,8 @@ I've found altering CCK node types as part of a fully scripted deployment phase 
 
 The best I've come up with is to use features for the main config changes and adding fields, but this won't remove any fields - but CCK provides functions for this.
 
+<!--more-->
+
 Oddly installing the features module doesn't make the database schema changes until after caches are cleared.
 
 The following code updates my CCK type, with new fields and settings.

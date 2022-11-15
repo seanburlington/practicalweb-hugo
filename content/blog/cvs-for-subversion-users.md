@@ -15,6 +15,9 @@ I've been using version control for a long time, but I haven't used CVS much sin
 
 Things I forgot
 
+<!--more-->
+
+
 1. CVS doesn't do the nice recursive add that subversion does
    At the start of a project you need to run
    cvs import

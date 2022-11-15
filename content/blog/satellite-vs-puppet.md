@@ -17,6 +17,8 @@ I haven't really used puppet in anger on production systems yet, I'm referring t
 
 They key differences that strike me are
 
+<!--more-->
+
 - Satellite is RedHat/Centos only, Puppet works on multiple distributions, and even on Windows to some extent
 - Satellite is primarily a GUI driven system whereas Puppet is primarily text configuration (puppet has a web dashboard but it's really just a log viewer)
 - Satellite can manage provisioning of new systems (I'm using openstack for provisioning new VMs anyway, Razor is said to work well with Puppet for provisioning)

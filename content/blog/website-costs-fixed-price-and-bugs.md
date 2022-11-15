@@ -10,6 +10,8 @@ tags:
 
 Three interesting posts I've read recently
 
+<!--more-->
+
 http://www.contenthere.net/2009/08/fixed-bid-implementation-work-a-marriage-made-in-vegas.html
 
 Large fixed bid projects are very hard to get right.

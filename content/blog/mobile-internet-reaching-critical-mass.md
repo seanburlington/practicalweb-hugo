@@ -15,6 +15,8 @@ Interesting report on the state of mobile internet
 
 According to this in the UK 16% of mobile phone users use their phones to access the internet.
 
+<!--more-->
+
 These users access a much smaller range of sites on their phones than desktop users do.
 
 But the key thing is that there may be enough mobile users to encourage website development to accommodate mobile users, and as the user experience gets better more people will use the mobile net, and from there it all explodes (keeping the critical mass analogy).

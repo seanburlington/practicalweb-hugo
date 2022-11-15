@@ -15,6 +15,8 @@ It turns out that this extra mergeinfo is likely because of earlier merges on su
 
 It is possible to remove the subtree mergeinfo via this command run from the root of the branch
 
+<!--more-->
+
 `svn propdel -R svn:mergeinfo ./*`
 
 http://stackoverflow.com/questions/767418/remove-unnecessary-svnmergeinfo-properties

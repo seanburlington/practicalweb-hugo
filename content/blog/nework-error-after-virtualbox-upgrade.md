@@ -16,6 +16,8 @@ But after upgrade I encountered the error
 
 It seems others have had similar issues
 
+<!--more-->
+
 http://forums.virtualbox.org/viewtopic.php?p=58720&amp;sid=f3759d4d938c30120502ad5610833caa
 
 I resolved this by deleting this entry:

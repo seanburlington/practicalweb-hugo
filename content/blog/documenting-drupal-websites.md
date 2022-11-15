@@ -11,7 +11,9 @@ tags:
 With any sizeable project maintaining good documentation is a challenge - it's all to easy to skimp on documentation, or to start with good intentions but allow the documentation to get out of date.
 
 The [Drupal API project](http://drupal.org/project/api) allows you to set up a documentation website for your project like [api.drupal.org](http://api.drupal.org) that covers all your code.
-<br />
+
+<!--more-->
+
 The way this works is that you add doc comments to your code, and the Drupal API module extracts these to create the searchable and cross-referenced documentation.
 
 Because doc comments are in the code it is easier to remember to update the documentation when you make a change.

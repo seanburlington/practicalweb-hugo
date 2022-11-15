@@ -16,6 +16,8 @@ To convert data from munin/rrd to graphite/whisper you need to use the `rrdwhisp
 
 If you want to change the data retention/resolution properties in graphite you will also need to resize the files as well.
 
+<!--more-->
+
 Note that Graphites reads from /etc/carbon/storage-aggregation.conf and /etc/carbon/storage-schemas.conf to select the retention and aggregation policies for *new* data, but since these are set in the file at creation time editing the config file has no effect on existing files (or those created with whisper2rrd).
 
 Recent data is stored at 10 second intervals, when it becomes older 6 lots of 10 second data get aggregated to make a one minute interval. I think this aggregation also happens on newer data if I select say data for the last 2 days since this time period include data at the lower resolution - all the data I get is at this lower resolution.

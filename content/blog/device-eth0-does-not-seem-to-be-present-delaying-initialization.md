@@ -17,6 +17,8 @@ When I came to use it again I had no network andtrying to start the network I go
 
 There seem to be a few issues
 
+<!--more-->
+
 Firstly networking isn't enabled by default
 
 http://wiki.centos.org/FAQ/CentOS6#head-b67e85d98f0e9f1b599358105c551632c6ff7c90

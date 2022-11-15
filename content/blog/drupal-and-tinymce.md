@@ -16,7 +16,9 @@ I've been working on a Drupal project to build a CMS for the production and mana
 The emphasis is all on the  backend system, with tight field size limits (character count including markup) and restricted input (specified tags only).
 
 
-Becuase of this I needed to use TinyMCE fully - restricting the  valid_elements set, and adding event handlers for paste, and keyup.
+Because of this I needed to use TinyMCE fully - restricting the  valid_elements set, and adding event handlers for paste, and keyup.
+
+<!--more-->
 
 
 I also had to do this in a moderately deeply nested form.

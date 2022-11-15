@@ -13,6 +13,8 @@ I just started on a project that was using trac and subversion but they weren't 
 
 The steps to add subversion to trac are
 
+<!--more-->
+
 - Stop people using the old repository
 - copy the repository files from one server to the other I used tar and scp
 - edit trac.ini to add the location of the respository  

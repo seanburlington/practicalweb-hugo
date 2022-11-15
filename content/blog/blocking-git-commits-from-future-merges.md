@@ -11,6 +11,8 @@ tags:
 
 I used to use subversion and [svnmerge](http://www.orcaware.com/svn/wiki/Svnmerge.py) a lot, and there's just one thing I miss about it. Now svnmerge is a tool to bolt on merge tracking to svn, and gits merge tracking is vastly better in many ways. But the one thing that svnmerge allowed me to do that was cool and doesn't have a real equivalent in git is to block commits
 
+<!--more-->
+
 I use release branches as well as feature branches, so for each release we support we have a branch, new features are developed in feature branches off this - and merged back to it when complete. The branch for release x gets merged forwards to release x+1 periodically - to ensure that any features or bugfixes make it to the latest release.
 
 Sometimes we make a commit to an older release that we don't want to merge forwards to newer releases - typically this is a quick and dirty bugfix/workaround that is superseded by a proper fix in the next release.

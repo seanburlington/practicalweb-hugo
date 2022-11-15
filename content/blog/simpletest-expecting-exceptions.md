@@ -15,6 +15,8 @@ Many tests are based on assert statements, but this patterns doesn't work for fu
 
 In that case the following patterns are often useful.
 
+<!--more-->
+
 ```php
 <?php
 try {

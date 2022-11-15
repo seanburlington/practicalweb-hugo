@@ -15,6 +15,8 @@ It is possible to add new assertions to selenium via the user-extensions.js file
 
 The following adds a test for computed style, this only works in firefox as far as I know - but some automation is better than none
 
+<!--more-->
+
 ```javascript
 //only works in firefox
 Selenium.prototype.assertStyle = function (locator, text) {

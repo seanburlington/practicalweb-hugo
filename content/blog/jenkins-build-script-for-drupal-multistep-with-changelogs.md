@@ -13,6 +13,8 @@ My build script has been getting more complex lately and I'm quite pleased with 
 
 We tend to have several versions of code on the go, version x is live, x+1 is in UAT, and x+2 is in development. With all these versions around it's important to keep track of changelogs, and to upgrade correctly x to x+1, and then x+1 to x+2 as we have found that going direct from x to x+2 can fail to uncover some bugs. Specifically this happens if a drupal update hook gets edited after it has been released to the client, but before it has run on live. Our builds always start from a copy of the live site.
 
+<!--more-->
+
 I have also posted a [script to review these update hooks](/blog/12/07/12/check-drupal-update-hook-changes) but this two step upgrade fits more easily into a continuous integration setup.
 
 Each release has it's own branch, any hotfixes to branch x get merged forwards to x+1

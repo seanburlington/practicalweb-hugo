@@ -12,6 +12,8 @@ I’ve just upgraded to firefox 3 beta and it looks pretty cool
 
 I got my plugins working by following these steps
 
+<!--more-->
+
 - Open about:config in the address bar.
 - Right click on the list and create a boolean: extensions.checkCompatibility
 - Set its value to false.

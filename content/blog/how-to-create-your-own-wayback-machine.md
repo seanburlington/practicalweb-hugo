@@ -16,6 +16,8 @@ file I have been working on at any point in it’s history. This really
 helps me to find out when and why things went wrong, saving me from
 making the same mistakes again.
 
+<!--more-->
+
 What I wanted was a system that would give me some of this functionality - but for file structures outside of my direct control.
 
 Here is my recipe:

@@ -13,6 +13,8 @@ Both add significant complexity to a project, and require extra care - but the a
 
 Submodules allow another git repo to be nested inside the main one, you can then commit to either repo from the same filesystem.
 
+<!--more-->
+
 The "parent" repo references a specific tag/branch of the child one - it's just this reference which is committed (and can be updated) in the parent.
 Commits in the parent relating to changes in subtree just show the ID changing and any message made when committing an updated version of the module. You can see commit history for the submodule when you are in that directory.
 

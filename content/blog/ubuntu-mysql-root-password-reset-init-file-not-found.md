@@ -13,6 +13,8 @@ The mysql site has a reasonable guide here https://dev.mysql.com/doc/refman/5.0/
 
 But there always seems to be something additional, this time for me it was apparmor preventing mysql from reading my reset file
 
+<!--more-->
+
 to reset I had to
 look in /etc/apparmor.d/usr.sbin.mysqld and identify /etc/mysql/conf.d/ as a good place to place a reset init file
 

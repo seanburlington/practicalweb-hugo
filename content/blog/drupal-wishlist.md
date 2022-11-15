@@ -14,6 +14,8 @@ Drupal has a lot of great strengths and some weaknesses
 
 The following are the key areas of Drupal that (as a programmer) I would like to see improved.
 
+<!--more-->
+
 ## Negative testing 
 
 Drupal only seems to

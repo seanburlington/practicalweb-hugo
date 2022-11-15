@@ -12,6 +12,8 @@ When I first started using Linux you had to read a lot of documentation - and it
 
 But it's a rich standard - making it much harder to learn than HTML.
 
+<!--more-->
+
 And there don't seem to be many good editors for it.
 
 ## OpenOffice

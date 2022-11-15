@@ -10,4 +10,6 @@ I just created a profile for myself on linkedin - a much better designed site th
 
 Read more about me there
 
+<!--more-->
+
 http://www.linkedin.com/in/seanburlington

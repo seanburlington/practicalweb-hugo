@@ -13,6 +13,8 @@ I've been looking into [Gitflow](https://github.com/nvie/gitflow/) recently, it'
 
 In the end I've decided I don't like the tool or the model, though both are interesting.
 
+<!--more-->
+
 I think this is because I'm used to working in fairly large teams where we may have some people working on one release and others working on the next, in this situation I want release branches that are fairly long lived, and to create topic branches from them.
 
 In fact in one project we dropped the master branch altogether and just used a series or release branches, always merging the older release branches into the newer (further from launch) ones.

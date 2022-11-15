@@ -15,6 +15,8 @@ I ran into a couple of errors
 
 **Annotations are not supported in -source 1.3**
 
+<!--more-->
+
 This error is because by default maven compiles code to be compatible with an older version of Java
 
 To fix I had to add the following to then `pom.xml` file

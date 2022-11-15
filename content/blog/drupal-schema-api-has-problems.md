@@ -15,6 +15,8 @@ tags:
 
 It turns out that [the Schema API](http://drupal.org/node/333788) doesn't properly understand the difference between different types of integers
 
+<!--more-->
+
 I was already concerned that
 [Schema API](http://drupal.org/node/200953) lacks the 'time' and 'date' type
 

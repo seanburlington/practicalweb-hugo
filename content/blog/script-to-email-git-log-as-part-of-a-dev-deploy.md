@@ -13,6 +13,8 @@ This script makes sure the dev site is clean, emails a log summary of updates ab
 
 I'm using this on a dev site which is periodically updated to the latest master for testing.
 
+<!--more-->
+
 ```bash
 #!/bin/bash
 

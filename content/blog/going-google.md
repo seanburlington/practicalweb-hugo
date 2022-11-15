@@ -15,6 +15,8 @@ However since I got an Android phone I've been getting slowly sucked in with acc
 
 One thing I found out is that you [can't upgrade from a Gmail account to a Google Apps one](http://www.google.com/support/forum/p/Google+Apps/thread?tid=5e6502d85823b15f&hl=en&fid=5e6502d85823b15f000479078747d294) what you have to do is create a new account and do a lot of exporting/importing.
 
+<!--more-->
+
 A Google apps account allows you to use your own domain name for email, and manage all accounts at that domain but is otherwise not so different to a Gmail account.
 
 The lack of upgrade path is a pain but the actual account creation and migration process was easy; I had my email going to the new account within half an hour.

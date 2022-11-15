@@ -18,6 +18,8 @@ In this case it's important for somebody to manually review all install files th
 
 This script fires up a visual diff tool for the changed files.
 
+<!--more-->
+
 `test_tag` = the tag of the release currently under test and close to being launched
 
 `future_release_tag` = the tag of the subsequent expected release

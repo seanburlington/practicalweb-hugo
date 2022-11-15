@@ -14,6 +14,8 @@ Some bugs have a nasty habit of only occurring in production, this may be due to
 
 What this means is that when we have a bug in production we can only understand it through the error logging we have already built into the system. If we need to put in place additional logging we usually lose the chance of actually fixing the bug for another release cycle.
 
+<!--more-->
+
 One of the real arts in this flow of development is to be pessimistic enough to assume that somehow something is going to go wrong, to remember that the people who see the bug will not be the developers who know the code, and that at this point (unlike during dev) we will have very limited access to the systems we might want to debug.
 
 One temptation is to log everything - but you soon find that doesn’t scale.

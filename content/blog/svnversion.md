@@ -14,6 +14,8 @@ Often working copies are only partially updated, this command gives a very quick
 
 It's not as rich an output as kdesvn which will colour code all the updateable files, but its a standard part of svn so should always be available.
 
+<!--more-->
+
 ## Name
 
 svnversion — Summarize the local revision(s) of a working copy.

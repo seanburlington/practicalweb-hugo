@@ -12,6 +12,8 @@ This has just taken me a surprisingly long time to work out ...
 
 I needed to output a file with the following as a marker in various places.
 
+<!--more-->
+
 > ♦ U+2666 BLACK DIAMOND SUIT
 >
 > General Character Properties

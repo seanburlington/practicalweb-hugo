@@ -16,6 +16,8 @@ wanted.
 
 it’s still useful though ...
 
+<!--more-->
+
 1. checkout the current version
 
 1. generate the patch as a diff between the previos version and this one

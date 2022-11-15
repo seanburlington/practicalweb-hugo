@@ -12,6 +12,8 @@ When developing Drupal one often needs to pull recent copies of the live databas
 
 Loading a dump into the dev database will update any existing tables, add any new ones - but it won't remove tables from the dev environment that re not in live.
 
+<!--more-->
+
 This causes problems with Drupal as module install and update hooks may need to create tables which don't yet exist on live.
 
 My solution which assumes you have .my.cnf set up to provide login locally is below.

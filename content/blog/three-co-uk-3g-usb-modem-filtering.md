@@ -11,6 +11,8 @@ Three are definitely putting a transparent proxy between me and the network.
 
 I just got this error message
 
+<!--more-->
+
 > Network Error (tcp_error)
 >
 > A communication error occurred: "Connection refused"

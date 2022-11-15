@@ -20,3 +20,6 @@ new_id=$(git rev-parse --short origin/$new_branch)
 last_tag=$(git describe --abbrev=0 --tags)
 
 ```
+<!--more-->
+
+.

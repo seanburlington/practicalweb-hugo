@@ -11,6 +11,8 @@ We have a site with a hardware ssl accelerator wich routes http traffic to port 
 
 in `/etc/varnish/default.vcl`
 
+<!--more-->
+
 ```C
 backend default {
     .host = "www.example.com";

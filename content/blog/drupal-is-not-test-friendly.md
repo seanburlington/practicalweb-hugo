@@ -12,6 +12,8 @@ I was originally excited about the embrace that Drupal seemed to have given to t
 
 However after spending some time with it I've concluded that Drupal really isn't very test friendly.
 
+<!--more-->
+
 Most tests for Drupal are integration tests not unit tests.
 
 That is to say that they test a bunch of components together - not each bit separately.

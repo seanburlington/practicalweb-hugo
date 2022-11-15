@@ -12,6 +12,8 @@ Quick function to delete a view.
 
 This is basically what the UI form submit does.
 
+<!--more-->
+
 ```php
 
 function delete_view($name) {

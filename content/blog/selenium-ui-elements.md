@@ -13,6 +13,8 @@ While playing around with selenium IDE I discovered a fantatsic tool that makes 
 
 What it does is to allow you to centrally define most of the xpath (and related) statements and give page elements meaningful names.
 
+<!--more-->
+
 So instead of testing for some element like
 
 `//form[@id='search-block-form']//input[@type='text'] `

@@ -20,6 +20,8 @@ The Notes field in packages returns output in Markdown format - you can convert 
 
 This isn't production code so please test before using.
 
+<!--more-->
+
 ```php
 <?php
 

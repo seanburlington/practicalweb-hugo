@@ -16,5 +16,7 @@ In the end this line worked for me
 Webdriver-framework/target/surefire-reports/*,Webdriver-framework/target/surefire-reports/**/*.png 
 ```
 
+<!--more-->
+
 This grabs a report in one level - and images it references in subdirectories 
 

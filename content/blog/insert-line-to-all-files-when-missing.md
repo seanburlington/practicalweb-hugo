@@ -13,6 +13,8 @@ In this case to turn on comments in all posts for this blog
 
 All files that don't have comments at the start of a line get "comments: true" inserted on the 5th line
 
+<!--more-->
+
 ```bash
 for f in * ; do grep -q "^comments" $f || sed -i '5 i\
 comments: true' $f ; done

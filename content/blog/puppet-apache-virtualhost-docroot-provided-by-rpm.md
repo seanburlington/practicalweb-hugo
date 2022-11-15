@@ -12,6 +12,8 @@ This has been annoying to work out.
 
 The [puppet apache module](https://forge.puppetlabs.com/puppetlabs/apache) will by default create the document root for a virtualhost if it is not already defined. But since I wanted the documentroot to be managed by a custom RPM I don't have a reference to the actual directory in puppet.
 
+<!--more-->
+
 It seems the thing to do is to create file named after the document root - but with an alternate path property. This way puppet/apache knows not to create the documentroot, and the one I make in puppet doesn't then get in the way of the RPM one.
 
 ```puppet

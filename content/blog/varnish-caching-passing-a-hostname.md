@@ -15,6 +15,8 @@ Out of the box it assumes you are caching your own server and that the client is
 
 To specify that it should use a host header to match the backend I'm using a config like
 
+<!--more-->
+
 ```C
 backend default {
         set backend.host = "www.example.com";

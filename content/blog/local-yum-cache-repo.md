@@ -16,6 +16,8 @@ I'm working on a process to setup a local repo with the stuff that I need
 
 This script downloads the rpms I have installed
 
+<!--more-->
+
 ```bash
 yum install yum-utils && sudo yumdownloader --destdir=./ $(rpm -qa --qf "%{NAME} ")
 ```

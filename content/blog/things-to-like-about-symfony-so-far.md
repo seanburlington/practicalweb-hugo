@@ -21,6 +21,8 @@ A few days into learning Symfony and so far I'm keen on
 - ajax integration - like defining a div as draggable in PHP
 - explicit support for initial and test data
 
+<!--more-->
+
 Things not to like
 
 - well there are quite a lot of files

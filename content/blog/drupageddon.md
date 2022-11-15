@@ -15,11 +15,15 @@ Drupal has been in the new today for all the wrong reasons
 
 [Millions of websites hit by Drupal hack attack](http://www.bbc.co.uk/news/technology-29846539)
 
+<!--more-->
+
 [Drupal sites had “hours” to patch before attacks started](http://arstechnica.com/security/2014/10/drupal-sites-had-hours-to-patch-before-attacks-started/)
 
 [Drupal users: Assume your site was hacked if you didn't apply Oct. 15 patch immediately](http://www.pcworld.com/article/2841372/drupal-if-you-werent-quick-to-patch-assume-your-site-was-hacked.html)
 
 [Did Drupal Drop The Ball? Users Who Didn't Update Within 7 Hours 'Should Assume They've Been Hacked'](http://www.forbes.com/sites/thomasbrewster/2014/10/30/did-drupal-drop-the-ball-users-who-didnt-update-within-7-hours-should-assume-theyve-been-hacked/)
+
+
 
 The biggest headache for me was the Public Service Announcement https://www.drupal.org/PSA-2014-003 which is clearly written to alarm users into updating.
 

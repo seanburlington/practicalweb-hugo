@@ -13,6 +13,8 @@ I needed to setup a VPN client connection on a headless system where the VPN is 
 This is my setup using pptp and dnsmasq (tested on centOS)
 
 
+<!--more-->
+
 
 Basic VPN config is here 
 

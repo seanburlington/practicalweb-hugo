@@ -18,6 +18,8 @@ I want the drupal user uploaded files to be manageable by both apache and a non-
 
 In my case I'm using hudson to rebuild the site with data and "files" from live periodically.
 
+<!--more-->
+
 So I have added the apache group to the hudson user
 
 ```

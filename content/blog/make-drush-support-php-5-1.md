@@ -15,6 +15,8 @@ Drupal has a fairly easy to meet set of requirements http://drupal.org/node/5024
 
 But Drupal projects are free to set their own rules in this area and Drush has used functions only available in PHP 5.2 - as far as I can see this is just the json functions.
 
+<!--more-->
+
 Frustratingly the latest version of RedHat provides PHP 5.1 and this is the second time I've run into the problem with a client who uses RedHat and understandably wants to stick to the standard packages.
 
 Drush provides command line access to Drupal functions and so is incredibly useful - but not quite critical enough for a platform re-evaluation.

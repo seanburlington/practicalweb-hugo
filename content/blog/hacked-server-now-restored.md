@@ -11,6 +11,8 @@ A few days ago I was notified by my ISP that my server was "emitting a UDP-based
 
 With console access I was able to verify there was a problem, and the ISP was able to give me a clean VM, with my old system available as a mount, in read-only mode
 
+<!--more-->
+
 I had thought that the server was fairly well locked down with minimal users, secure passwords and so on, but to be honest with other commitments I hadn't been keeping on top of patching.
 
 Reviewing logs etc didn't show any clear point of entry, and since the server was rebooted I didn't see any ongoing activity. I decided the best thing is just a clean rebuild, with better security, better monitoring, and keep on top of those patches.

@@ -20,6 +20,8 @@ It was a large project, and while many of us were keen on writing tests we weren
 
 It was really frustrating to come back to a piece of work that was well covered by unit tests, only to find those tests broken
 
+<!--more-->
+
 Well, right now I've decided to take some time to explore automated testing a bit more. I've got a Drupal site and a bunch of simpletest tests - I want the tests run on every commit, and while I'm at it I want to run some other checks too.
 
 The following records what I've done so far, problems I encountered, and how I solved them.

@@ -14,6 +14,8 @@ I just got a nice big new monitor !
 
 The command is `dpkg-reconfigure xserver-xfree86`
 
+<!--more-->
+
 But this will silently fail to update the XF86Config-4 file if the file has been modified, if you read the file carefully you will see a useful explanation - but I missed this.
 
 ```

@@ -13,6 +13,8 @@ There are times you really really want to be sure your code doesn't have any bug
 
 This is one of those times.
 
+<!--more-->
+
 http://www.youtube.com/v/yln_IGDuOCo
 
 I really hope they had a good set of tests running on their software before doing that!

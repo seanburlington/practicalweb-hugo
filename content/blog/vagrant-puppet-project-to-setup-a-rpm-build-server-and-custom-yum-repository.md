@@ -19,6 +19,8 @@ The project contains a Vagrant config file, and Puppet manifests that together w
 
 To run this
 
+<!--more-->
+
 1. Install vagrant [http://vagrantup.com/](http://vagrantup.com/) (on Ubuntu just `apt-get install vagrant`)
 
 2. Install Virtualbox [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads) (again on Ubuntu `apt-get install virtualbox`)

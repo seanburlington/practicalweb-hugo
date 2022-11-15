@@ -15,6 +15,8 @@ It basically says you should delete everything, unpack a new Drupal version, and
 
 I like to use version control to manage my site.
 
+<!--more-->
+
 My current project uses the pressflow fork of Drupal, I downloaded the current and new versions of this, added them to my repository and then upgrading my working copy is as easy as
 
 ```
