@@ -11,7 +11,13 @@
         "source": "/blog/categories/:tag*",  
         "destination": "https://practicalweb.co.uk/tags/:tag",
         "type" : 301
+      },
+      {
+        "regex": "/blog/(0\\d/.*)",   
+        "destination": "/blog/20:1",
+        "type": 301
       }
+    
       
     ],
     "headers": [
