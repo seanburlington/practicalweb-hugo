@@ -8,7 +8,6 @@ pygmentsUseClasses=true
 # Widget
 widgets = true
 copyright = "Copyright © 2021, Sean Burlington; all rights reserved."
-twitter = "seanburlington"
 
 [permalinks]
   blog = "/blog/:year/:month/:day/:filename/"
